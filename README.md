@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://aegm01.github.io/portafolio-cv/](https://aegm01.github.io/portafolio-cv/)
 
+- 👨‍💻 My last project: [ Pokedex ](https://aegm01.github.io/pokedex/)
+
 - 💬 Ask me about **CSS3, Javascript and React**
 
 - 📫 How to reach me **aegm0143@gmail.com**
